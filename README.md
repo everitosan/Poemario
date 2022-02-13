@@ -1,11 +1,24 @@
-# Poemario 2022
+# 𝘗𝘰𝘦𝘮𝘢𝘳𝘪𝘰
 
-*Este poemario está bajo construcción, ¿hasta cuando? No lo sé ...*
-
+```
+Este poemario está bajo construcción,  
+¿hasta cuando?  
+No lo sé ...
+```
 ## Indice
 
-- [Serie de Nubes](1.Nubes)
-- [Tlalpan](2.Tlalpan.md)
+*2021*  
+
+- [Ojalá](2021/1.Ojalá.md)
+- [Mexcal](2021/2.Mexcal.md)  
+- [Lunes](2021/3.Lunes.md)  
+
+**2022*  
+
+- [Tutorial para el suicidio](2022/0.Tutorial_para_el_suicidio.md)
+- [Serie de Nubes](2022/1.Nubes)
+- [Tlalpan](2022/2.Tlalpan.md)
+- [Vaho](2022/3.Vaho.md)
 
 ---
 
