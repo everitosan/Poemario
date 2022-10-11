@@ -10,7 +10,8 @@
 Tal vez por eso me siento melancólico cuando vuelo,  
 por que las oigo reclamar sobre mi memoria,  
 me susurran como solo las nubes saben susurrar:  
-  a lo lejos.  
+
+                   a lo lejos.  
 
 Ojalá pudiera hablar con ellas,  
 para confirmar o desechar mis sospechas,  
